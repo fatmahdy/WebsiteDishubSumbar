@@ -3,9 +3,8 @@ Judul PKL : Website untuk Kasubag UK
 Mulai Kerja : 
 Senin, 08:13 24/01/2023
 1. Menu website :
-1). Daftar Surat Keluar
+1). Daftar Surat Keluar dan masuk
 2). Daftar Inventaris
 3). Arsip surat
 
-2. Pelu Log in atau tidak?
-3.
+2. Perlu Log in atau tidak? ya, untuk admin
