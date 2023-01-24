@@ -3,8 +3,13 @@ Judul PKL : Website untuk Kasubag UK
 Mulai Kerja : 
 Senin, 08:13 24/01/2023
 1. Menu website :
-1). Daftar Surat Keluar dan masuk
+1). Daftar Surat Keluar
 2). Daftar Inventaris
 3). Arsip surat
 
-2. Perlu Log in atau tidak? ya, untuk admin
+2. Memakai fitur Log in
+3. Upload ke Git
+4. Memakai Framework PHP, Js, Dan Bootstrap
+
+Web Surat : localhost/manajemen_surat https://github.com/ferbyansah/manajemen_surat/tree/82c84620be0fbd103b80cd3aeaac432c986b0290 admin admin
+https://app.masrud.com/ams/ masrud masrud.com
