@@ -7,7 +7,7 @@ Senin, 08:13 24/01/2023
 2). Daftar Inventaris
 3). Arsip surat
 
-2. Pelu Log in atau tidak?
+2. Memakai fitur Log in
 3. Upload ke Git
 4. Memakai Framework PHP, Js, Dan Bootstrap
 
