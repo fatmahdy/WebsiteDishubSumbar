@@ -13,3 +13,6 @@ Senin, 08:13 24/01/2023
 
 Web Surat : localhost/manajemen_surat https://github.com/ferbyansah/manajemen_surat/tree/82c84620be0fbd103b80cd3aeaac432c986b0290 admin admin
 https://app.masrud.com/ams/ masrud masrud.com
+
+Galery project PKL : 
+https://drive.google.com/drive/folders/10PGb6LbDNRn-NxsfXe3YIRompdYezsiK
